@@ -1,0 +1,75 @@
+.contain{
+    width: 1000px;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: 245px 20px 245px 245px 245px;
+}
+
+.contain div{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.blog{
+    background-color: red;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 25px;
+    font-style: italic;
+    margin-right: 5px;
+}
+
+.nav{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.sidecontent{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+}
+
+h2{
+    color: red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+p{
+    text-align:justify;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.article{
+    background-color: red;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    font-size: 12px;
+    font-style: italic;
+    text-align:center;
+}
+
+h3{
+    color: red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic; 
+}
+
+.end{
+    margin-top: 2px;
+    background-color: grey;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    height: 25px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
